@@ -7,23 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E3D66811E0E56EE00313F98 /* Final Fantasy VII - Prelude HQ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E3D66801E0E56EE00313F98 /* Final Fantasy VII - Prelude HQ.mp3 */; };
 		6E84F4C61E049C3A00D4E603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E84F4C51E049C3A00D4E603 /* AppDelegate.swift */; };
-		6E84F4C81E049C3A00D4E603 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E84F4C71E049C3A00D4E603 /* ViewController.swift */; };
 		6E84F4CB1E049C3A00D4E603 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E84F4C91E049C3A00D4E603 /* Main.storyboard */; };
 		6E84F4CE1E049C3A00D4E603 /* Final_Fantasy_Trivia.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6E84F4CC1E049C3A00D4E603 /* Final_Fantasy_Trivia.xcdatamodeld */; };
 		6E84F4D01E049C3A00D4E603 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E84F4CF1E049C3A00D4E603 /* Assets.xcassets */; };
 		6E84F4D31E049C3A00D4E603 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E84F4D11E049C3A00D4E603 /* LaunchScreen.storyboard */; };
+		6E84F4DB1E049C8C00D4E603 /* TitleScreenController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E84F4DA1E049C8C00D4E603 /* TitleScreenController.swift */; };
+		6EB8A1541E04E0CF00386C5B /* Themes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8A1531E04E0CF00386C5B /* Themes.swift */; };
+		6EB8A1561E04E0F000386C5B /* Quizes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8A1551E04E0F000386C5B /* Quizes.swift */; };
+		6EB8A15F1E04F70100386C5B /* Final Fantasy VII - Victory Fanfare HQ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EB8A15E1E04F70100386C5B /* Final Fantasy VII - Victory Fanfare HQ.mp3 */; };
+		6EB8A1611E0501D700386C5B /* TriviaQuestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8A1601E0501D700386C5B /* TriviaQuestions.swift */; };
+		6EB8A1641E07D4EB00386C5B /* Misc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8A1631E07D4EB00386C5B /* Misc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E3D66801E0E56EE00313F98 /* Final Fantasy VII - Prelude HQ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Final Fantasy VII - Prelude HQ.mp3"; sourceTree = "<group>"; };
+		6E7F84F21E10A09F0019CE8C /* Final Fantasy XII - Victory Fanfare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Final Fantasy XII - Victory Fanfare.mp3"; sourceTree = "<group>"; };
+		6E7F84F31E10A1960019CE8C /* Final Fantasy IV Ds Ost - Victory Fanfare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Final Fantasy IV Ds Ost - Victory Fanfare.mp3"; sourceTree = "<group>"; };
+		6E7F84F41E10A2470019CE8C /* FFI - Victory.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "FFI - Victory.mp3"; sourceTree = "<group>"; };
 		6E84F4C21E049C3A00D4E603 /* Final Fantasy Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Fantasy Trivia.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E84F4C51E049C3A00D4E603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6E84F4C71E049C3A00D4E603 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6E84F4CA1E049C3A00D4E603 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6E84F4CD1E049C3A00D4E603 /* Final_Fantasy_Trivia.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Final_Fantasy_Trivia.xcdatamodel; sourceTree = "<group>"; };
 		6E84F4CF1E049C3A00D4E603 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E84F4D21E049C3A00D4E603 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E84F4D41E049C3A00D4E603 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E84F4DA1E049C8C00D4E603 /* TitleScreenController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleScreenController.swift; sourceTree = "<group>"; };
+		6EB8A1531E04E0CF00386C5B /* Themes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Themes.swift; sourceTree = "<group>"; };
+		6EB8A1551E04E0F000386C5B /* Quizes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Quizes.swift; sourceTree = "<group>"; };
+		6EB8A15E1E04F70100386C5B /* Final Fantasy VII - Victory Fanfare HQ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Final Fantasy VII - Victory Fanfare HQ.mp3"; sourceTree = "<group>"; };
+		6EB8A1601E0501D700386C5B /* TriviaQuestions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TriviaQuestions.swift; sourceTree = "<group>"; };
+		6EB8A1631E07D4EB00386C5B /* Misc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Misc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +71,10 @@
 		6E84F4C41E049C3A00D4E603 /* Final Fantasy Trivia */ = {
 			isa = PBXGroup;
 			children = (
+				6EB8A1621E07D4C400386C5B /* Models */,
+				6EB8A1571E04F68600386C5B /* Victory Songs */,
+				6E84F4DC1E049CA800D4E603 /* ViewController */,
 				6E84F4C51E049C3A00D4E603 /* AppDelegate.swift */,
-				6E84F4C71E049C3A00D4E603 /* ViewController.swift */,
 				6E84F4C91E049C3A00D4E603 /* Main.storyboard */,
 				6E84F4CF1E049C3A00D4E603 /* Assets.xcassets */,
 				6E84F4D11E049C3A00D4E603 /* LaunchScreen.storyboard */,
@@ -65,6 +82,37 @@
 				6E84F4CC1E049C3A00D4E603 /* Final_Fantasy_Trivia.xcdatamodeld */,
 			);
 			path = "Final Fantasy Trivia";
+			sourceTree = "<group>";
+		};
+		6E84F4DC1E049CA800D4E603 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				6E84F4DA1E049C8C00D4E603 /* TitleScreenController.swift */,
+				6EB8A1601E0501D700386C5B /* TriviaQuestions.swift */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		6EB8A1571E04F68600386C5B /* Victory Songs */ = {
+			isa = PBXGroup;
+			children = (
+				6E3D66801E0E56EE00313F98 /* Final Fantasy VII - Prelude HQ.mp3 */,
+				6E7F84F21E10A09F0019CE8C /* Final Fantasy XII - Victory Fanfare.mp3 */,
+				6E7F84F31E10A1960019CE8C /* Final Fantasy IV Ds Ost - Victory Fanfare.mp3 */,
+				6E7F84F41E10A2470019CE8C /* FFI - Victory.mp3 */,
+				6EB8A15E1E04F70100386C5B /* Final Fantasy VII - Victory Fanfare HQ.mp3 */,
+			);
+			name = "Victory Songs";
+			sourceTree = "<group>";
+		};
+		6EB8A1621E07D4C400386C5B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6EB8A1531E04E0CF00386C5B /* Themes.swift */,
+				6EB8A1551E04E0F000386C5B /* Quizes.swift */,
+				6EB8A1631E07D4EB00386C5B /* Misc.swift */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,8 +147,13 @@
 				TargetAttributes = {
 					6E84F4C11E049C3A00D4E603 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = AJZ8YNH2N6;
+						DevelopmentTeam = UZCXMTT3V9;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -127,7 +180,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EB8A15F1E04F70100386C5B /* Final Fantasy VII - Victory Fanfare HQ.mp3 in Resources */,
 				6E84F4D31E049C3A00D4E603 /* LaunchScreen.storyboard in Resources */,
+				6E3D66811E0E56EE00313F98 /* Final Fantasy VII - Prelude HQ.mp3 in Resources */,
 				6E84F4D01E049C3A00D4E603 /* Assets.xcassets in Resources */,
 				6E84F4CB1E049C3A00D4E603 /* Main.storyboard in Resources */,
 			);
@@ -140,9 +195,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EB8A1611E0501D700386C5B /* TriviaQuestions.swift in Sources */,
 				6E84F4CE1E049C3A00D4E603 /* Final_Fantasy_Trivia.xcdatamodeld in Sources */,
-				6E84F4C81E049C3A00D4E603 /* ViewController.swift in Sources */,
+				6EB8A1541E04E0CF00386C5B /* Themes.swift in Sources */,
+				6EB8A1561E04E0F000386C5B /* Quizes.swift in Sources */,
+				6E84F4DB1E049C8C00D4E603 /* TitleScreenController.swift in Sources */,
 				6E84F4C61E049C3A00D4E603 /* AppDelegate.swift in Sources */,
+				6EB8A1641E07D4EB00386C5B /* Misc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +322,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AJZ8YNH2N6;
+				DEVELOPMENT_TEAM = UZCXMTT3V9;
 				INFOPLIST_FILE = "Final Fantasy Trivia/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "SmartCiti.Final-Fantasy-Trivia";
@@ -276,7 +335,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AJZ8YNH2N6;
+				DEVELOPMENT_TEAM = UZCXMTT3V9;
 				INFOPLIST_FILE = "Final Fantasy Trivia/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "SmartCiti.Final-Fantasy-Trivia";
@@ -304,6 +363,7 @@
 				6E84F4D91E049C3A00D4E603 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
